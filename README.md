@@ -110,10 +110,10 @@
 
 
 ## 9 | Dictionary
-Dictionaries Basics
-Operations
-Comprehensions
-Dictionaries Methods
+- Dictionaries Basics
+- Operations
+- Comprehensions
+- Dictionaries Methods
 
 ## 10 | Tuple
 - Tuples Basics
