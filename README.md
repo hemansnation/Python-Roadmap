@@ -201,7 +201,9 @@
 - Extracting Data from websites
 - Extracting Tables
 - Data in JSON format
-- 20 | Virtual Environment
+
+
+## 20 | Virtual Environment
 - Virtual Environment Setup
 
 
