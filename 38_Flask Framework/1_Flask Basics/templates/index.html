@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <title>My Index Page</title>
+    <!-- <link href="../static/css/style.css" rel="stylesheet" /> 
+    -->
+
+    <link href="{{ url_for('static', filename='css/style.css' ) }}" rel="stylesheet" />
+</head>
+<body>
+    <h1>This is our first template for Flask</h1>
+
+    <h1>
+        {{ name }}
+    </h1>
+    
+</body>
+</html>
