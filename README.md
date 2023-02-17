@@ -278,6 +278,7 @@
 
 ## 30 | What to do Now?
 - Discussions on how to process further with this knowledge.
+- [Python Developer Roadmap](https://roadmap.sh/python) Complete guide to Python Development.
 
 
 
