@@ -1,4 +1,4 @@
-# Python-Roadmap-2022
+# Python-Roadmap
 
 ![Python Core Header](https://github.com/hemansnation/Python-Roadmap-2022/blob/main/images/pythoncoreheader.png)
 
